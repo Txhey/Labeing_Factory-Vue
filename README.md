@@ -26,3 +26,8 @@ npm run dev
 ```
 
 运行成功后在浏览器访问：[localhost:5555](localhost:5555) 即可成功部署。
+
+## 效果图
+![img1](./imgs/img1.png)
+![img2](./imgs/img2.png)
+![img3](./imgs/img3.png)
